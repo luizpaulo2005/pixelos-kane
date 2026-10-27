@@ -18,6 +18,7 @@ PixelOS is an AOSP-based custom ROM that brings the Pixel look and features, wit
 
 - **ROM zip:** [SourceForge](https://sourceforge.net/projects/pixelos-kane/files/). The zip is larger than GitHub's 2 GiB limit.
 - **Fastboot images and source manifest:** [GitHub Releases](https://github.com/luizpaulo2005/pixelos-kane/releases)
+- **Support and discussion:** [XDA thread](https://xdaforums.com/t/rom-17-unofficial-pixelos-17-for-motorola-one-vision-kane.4806593/)
 
 | File | Use |
 |---|---|
