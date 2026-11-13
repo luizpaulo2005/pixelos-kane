@@ -27,6 +27,7 @@ PixelOS is an AOSP-based custom ROM that brings the Pixel look and features, wit
 | `vbmeta.img` | Verified boot metadata |
 | `super_empty.img` | Super partition layout (`fastboot wipe-super`) |
 | `build-manifest.xml` | Exact commit of every repository in the build |
+| `sha256sums.txt` | Checksums of every file, including the ROM zip |
 
 ## What works
 
